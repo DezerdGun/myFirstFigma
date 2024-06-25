@@ -44,3 +44,38 @@
     font-weight: 400;
     font-size: 14px;
 }
+/* end of header */
+/* slider from here  */
+
+.body_slider{
+    display: flex;
+    width: 1296px;
+    height: 542px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.body_slider .body_slider_half{
+    width: 856px;
+    height: 540px;
+    background: url("images/Rectangle\ 30.png");
+    border: 5px solid yellow;
+}
+.body_slider_half .btn_main{
+    width: 154px;
+    height: 44px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top: 301px;
+    margin-left: 60px;
+}
+.body_slider_half .slid_main  {
+    margin-left: 60px;
+    color: #fff;
+    background: none !important;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+}
+
