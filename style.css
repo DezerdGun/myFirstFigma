@@ -79,3 +79,31 @@
     line-height: 60px;
 }
 
+.body_slider_second{
+    width: 416px;
+    height: 542px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.body_slider_second .plugin_url{
+    width: 200px;
+}
+
+
+.body_slider_second .plugin_url a{
+    width: 100px; 
+    border: 1px solid ;
+    padding:12px 20px 7px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.body_slider_second .plugin_images{
+    margin-top:50px;
+}
+.body_slider_second .plugin_images img{
+    justify-content: space-around;
+}
+
+
